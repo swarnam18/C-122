@@ -1,0 +1,28 @@
+body
+{
+	text-align: center;
+    background:linear-gradient(#341f97,#5f27cd,#a29bfe,#e84393,#fd79a8,#18dcff,#7efff5,#00d2d3,#f368e0,#ff9ff3,#e84393,#341f97);
+}
+span
+{
+	font-size:20px;
+	color: rgb(0, 213, 255);
+}
+canvas
+{
+	background: rgb(255, 0, 136);
+	border-radius: 20px;
+    border-width: 2px;
+    border-color: rgb(0, 4, 255);
+    border-style:dashed;
+    box-shadow:5px 5px 5px 10px;
+}
+#sn1{
+    background:linear-gradient(#e84393,#fd79a8,#FDA7DF,#D980FA);
+    font-size:25px;
+}
+h3{
+    color:deeppink;
+    font-family: 'Arizonia';
+    font-size:40px;
+}
